@@ -10,3 +10,5 @@ github_username:  sekadarawan
 
 # Build settings
 markdown: kramdown
+
+highlighter: pygments
